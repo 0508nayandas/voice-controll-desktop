@@ -1,66 +1,75 @@
 ﻿# voice-controll-desktop
 Here’s a list of commands you can use with the code:
 
-Activate Jarvis:
+1. **Activate Jarvis:**
+   - "wake up jarvis" or "jarvis"  
+   - Jarvis will activate and start listening for further commands.
 
-"wake up jarvis" or "jarvis"
-Jarvis will activate and start listening for further commands.
-Deactivate Jarvis:
+2. **Deactivate Jarvis:**
+   - "sleep jarvis"  
+   - Jarvis will go to sleep.
 
-"sleep jarvis"
-Jarvis will go to sleep.
-Open Websites:
+3. **Open Websites:**
+   - "open youtube"
+   - "open google"
+   - "open instagram"
+   - "open github"
+   - "open linkedin"
 
-"open youtube"
-"open google"
-"open instagram"
-"open github"
-"open linkedin"
-Search on Websites:
+4. **Search on Websites:**
+   - "open youtube and search [search query]"
+   - "open google and search [search query]"
 
-"open youtube and search [search query]"
-"open google and search [search query]"
-Send WhatsApp Messages:
+5. **Send WhatsApp Messages:**
+   - "send message [message] to [contact name]"
 
-"send message [message] to [contact name]"
-Call a WhatsApp Contact:
+6. **Call a WhatsApp Contact:**
+   - "call to [contact name]"
 
-"call to [contact name]"
-Open Applications:
+7. **Open Applications:**
+   - "open [application name]"
 
-"open [application name]"
-Open New Tab:
+8. **Open New Tab:**
+   - "open a new tab"
 
-"open a new tab"
-Close Tabs:
+9. **Close Tabs:**
+   - "close current tab"
+   - "close [tab number] tab"
+   - "go to [tab number] tab"
 
-"close current tab"
-"close [tab number] tab"
-"go to [tab number] tab"
-Control Brightness:
+10. **Control Brightness:**
+   - "brightness up"
+   - "brightness down"
 
-"brightness up"
-"brightness down"
-Control Volume:
-"volume up"
-"volume down"
-Control WiFi:
-"turn on wifi"
-"turn off wifi"
-Control Night Light:
-"turn on night light"
-"turn off night light"
-Control Airplane Mode:
-"turn on airplane mode"
-"turn off airplane mode"
-Control Video Playback:
-"pause the video"
-"play the video"
-Scroll Web Pages:
-"scroll up"
-"scroll down"
-Shutdown PC:
-"shut down my pc"
-Activate/Deactivate Gesture Control:
-"activate gesture control"
-"deactivate gesture control"
+11. **Control Volume:**
+   - "volume up"
+   - "volume down"
+
+12. **Control WiFi:**
+   - "turn on wifi"
+   - "turn off wifi"
+
+13. **Control Night Light:**
+   - "turn on night light"
+   - "turn off night light"
+
+14. **Control Airplane Mode:**
+   - "turn on airplane mode"
+   - "turn off airplane mode"
+
+15. **Control Video Playback:**
+   - "pause the video"
+   - "play the video"
+
+16. **Scroll Web Pages:**
+   - "scroll up"
+   - "scroll down"
+
+17. **Shutdown PC:**
+   - "shut down my pc"
+
+18. **Activate/Deactivate Gesture Control:**
+   - "activate gesture control"
+   - "deactivate gesture control"  
+
+This list includes commands to interact with applications, control media playback, adjust system settings, and more, making it versatile for various tasks!
